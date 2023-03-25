@@ -2,6 +2,8 @@
 # Basic JSON Dashboard
 An incredibly simple JSON dashboard (parser?) for real-time telemetry data  
   
+![Example Screenshot of the Dashboard](https://github.com/devygz/Basic-JSON-Dashboard/raw/main/img/github-screenshot.png "Example Screenshot of the Dashboard")
+  
 ## Features
 - Get data from an HTTP endpoint [x] times in 1 second.
 - Reserved key names for larger display and server-side uptime data
