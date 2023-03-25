@@ -31,3 +31,7 @@ All the keys (except named **speed** and **uptime**) will be displayed as a new 
 Two different index files (named index.html and index2.html) is created. Simply, they are two different designs. Choose the best version for you and customize.  
   
 This project was actually created for an Efficiency Challenge Car contest, so variable names tend to be in that direction (like speed).
+  
+## Licenses  
+  
+[VMWare Clarity City Font](https://github.com/vmware/clarity-city) is used as default font.  
