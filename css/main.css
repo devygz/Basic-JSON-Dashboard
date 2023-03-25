@@ -1,0 +1,99 @@
+@import url('/fonts/clarity-city-next/css/bundles/default.min.css');
+
+/* Tarayıcı defaultlarını temizliyoz */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* / */
+
+body {
+    font-family: 'Clarity City', sans-serif;
+    background-color: #fafafa;
+}
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.dt-wrap > .time {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: .5rem;
+}
+.general-wrap {
+    /*hehe albay wrap*/
+    padding: 1.5rem;
+}
+.car-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: .5rem;
+}
+.sect-divide {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.main-focus {
+    text-align: center;
+    width: 30%;
+    border-right: 1px solid #888;
+    height: 70vh;
+    padding: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.speed-title {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    color: #888;
+    
+}
+.uptime {
+    color: #888;
+    margin-top: .5rem;
+}
+.speed-value {
+    font-size: 10rem;
+    font-weight: 600;
+    margin-bottom: .5rem;
+    margin-top: 5rem;
+}
+.sensor-sect {
+    width: 70%;
+    padding: 2rem;
+}
+.sensor-data{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+
+}
+.sensor-obj {
+    text-align: center;
+    border: 2px solid #888;
+    border-radius: 16px;
+    padding: 2rem;
+    width: max-content;
+    margin-bottom: 2rem;
+    margin-right: 2rem;
+}
+.sensor-value{
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: .5rem;
+}
+.sensor-tag {
+    color: #888;
+   
+}
+.sect-title{
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 1.5rem;
+}
