@@ -1,12 +1,12 @@
 @import url('/fonts/clarity-city-next/css/bundles/default.min.css');
 
-/* Tarayıcı defaultlarını temizliyoz */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/* / */
+
 
 body {
     font-family: 'Clarity City', sans-serif;
