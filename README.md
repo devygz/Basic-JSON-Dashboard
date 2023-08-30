@@ -26,11 +26,11 @@ Configure them according to the needs, and you are ready!
   
 The server must return a very simple JSON response. Example response can be found in example-api-response/api.json  
   
-All the keys (except named **speed** and **uptime**) will be displayed as a new sensor value. This allows to add and hide values directly on server-side code, without caring about client-side implementations. *speed* value will be displayed larger on the screen, and *uptime* will be displayed under the date in gray color. Please note that *speed* is required, but *uptime* is optional.  
+All the keys (except named **speed** and **uptime**) will be displayed as a new sensor value. This allows to add and hide values directly on server-side code, without caring about client-side implementations. *speed* value will be displayed larger on the screen, and *uptime* will be displayed under the date in gray color. Please note that *speed* key is mandatory, but *uptime* key is optional.  
   
 ## Index Files
   
-Two different index files (named index.html and index2.html) is created. Simply, they are two different designs. Choose the best version for you and customize.  
+Two different index files (named index.html and index2.html) are created. Simply, they are two different designs. Choose the best version for you and customize.  
   
 This project was actually created for an Efficiency Challenge Car contest, so variable names tend to be in that direction (like speed).
   
